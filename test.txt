@@ -1,0 +1,28 @@
+# 🚀 Multi-Topic Programming Repository
+
+This repository contains tutorials on various **programming topics**, categorized by topic and language.
+
+## 📂 Available Topics
+- **[Algorithms](./Algorithms/README.md)** → Sorting, searching, dynamic programming, etc.
+- **[Data Structures](./Data-Structures/README.md)** → Linked lists, trees, graphs, stacks, etc.
+- **[Web Development](./Web-Development/README.md)** → Frontend & Backend technologies
+- **[DevOps](./DevOps/README.md)** → Kubernetes, Terraform, Jenkins, etc.
+- **[Scripting](./Scripting/README.md)** → Bash, Python, PowerShell automation
+
+### 📌 Supported Languages
+- **Python**
+- **Java**
+- **C++**
+- **JavaScript**
+- **Bash**
+- **PowerShell**
+- **Go**
+- **Rust**
+- And more!
+
+Each topic includes:
+- 📜 A **README** with an explanation
+- 🏗️ Step-by-step implementation
+- 🛠️ Code files ready to use
+
+Happy coding! 🚀
